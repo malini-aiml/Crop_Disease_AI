@@ -37,4 +37,3 @@ if uploaded_file is not None:
     st.markdown("---")
     st.subheader("💡 Recommended Solution:")
     st.info("Ensure adequate sunlight, avoid over-watering, and spray neem oil if leaf spots appear.")
-
